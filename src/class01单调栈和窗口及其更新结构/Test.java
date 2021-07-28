@@ -5,4 +5,7 @@ import java.util.Stack;
 
 public class Test {
     //已写过一次
+    public static void main(String[] args) {
+
+    }
 }
